@@ -14,11 +14,7 @@ import javax.servlet.ServletContextListener;
 import javax.servlet.annotation.WebListener;
 import javax.servlet.ServletContext;
 
-/**
- * Web application lifecycle listener.
- *
- * @author me-aydin
- */
+
 @WebListener()
 public class UserServletListener implements ServletContextListener {
 

@@ -19,10 +19,7 @@ import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author me-aydin
- */
+
 public class Jdbc {
     
     Connection connection = null;

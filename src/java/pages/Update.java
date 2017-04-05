@@ -14,10 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import model.Jdbc;
 
-/**
- *
- * @author me-aydin
- */
+
 public class Update extends HttpServlet {
 
     /**
